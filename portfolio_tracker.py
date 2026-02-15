@@ -143,7 +143,6 @@ def main():
             format_choice = "txt"
         save_to_file(stock_details, total_value, format_choice)
 
-
 if __name__ == "__main__":
     while True:
         main()
