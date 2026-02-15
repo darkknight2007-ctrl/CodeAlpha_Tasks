@@ -8,7 +8,6 @@ STOCK_PRICES = {
     "META": 485.30
 }
 
-
 def display_available_stocks():
     print("\n" + "=" * 50)
     print("AVAILABLE STOCKS")
