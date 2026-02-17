@@ -40,7 +40,7 @@ def f_responses(user_input):
             "Why was the computer cold? It left its Windows open."
         ],
         "dark joke": [ # I would not call them lame but kinda dark
-            "who are the fastest readers in history? THE 9/11 VICTIMS BECAUSE THEY WENT DOWN MULTIPLE STORIES IN MERE SECONDS",
+            "I started a procrastinators’ support group.We haven’t met yet.",
             "whats the last name of obama? its obama!",
             "i have many jokes on unemployed people but most of them dont work!"
         ]
